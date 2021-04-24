@@ -1,2 +1,3 @@
-# HeatingTempMon
-heating temperature monitor
+# MechRoomMonCon
+mechanical room monitor and control
+
